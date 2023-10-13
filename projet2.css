@@ -1,0 +1,50 @@
+h1{
+    color: palevioletred;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 20;
+}
+#intro{
+    font-size: 18px;
+
+}
+#mayy{
+    color: rosybrown;
+    font: size 50px;
+    line-height: 20px;
+
+}
+#may{
+    font-size: 25px;
+    line-height: 10px;
+}
+#elff{
+    color: rosybrown;
+}
+#elf{
+    font-size: 25px;
+    line-height: 10px;
+}
+input[type="submit" ]
+{
+    background-color: pink;
+
+}
+#nyxx{
+    color: rosybrown;
+    font-size: 25px;
+    line-height: 20px;
+
+}
+#nyx{
+    font-size: 25px;
+    line-height: 10px;
+
+}
+.x{
+    height: 200px;
+    width: 200px;
+    border: 5px black solid;
+    background-image: url(may.css);
+}
